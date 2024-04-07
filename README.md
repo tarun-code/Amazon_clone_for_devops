@@ -1,9 +1,9 @@
 ## Deployment of Amazon clone app using Terraform and jenkins ci-cd
 
-## introduction 
+## Introduction 
 
 
-## deploy amazon app in aws ec2 using terraform as a infrastructure building tool and then i automate the whole process using the jenkins which allows  continuous integration and continuous deployment (ci-cd) and then i setup Promotheus and grafana for monitering.
+## Deploy amazon app in aws ec2 using terraform as a infrastructure building tool and then i automate the whole process using the jenkins which allows  continuous integration and continuous deployment (ci-cd) and then i setup Promotheus and grafana for monitering.
 
 
 
